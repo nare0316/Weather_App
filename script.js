@@ -20,7 +20,6 @@ function handleSearch() {
 }
 
 searchButton.addEventListener('click', () => {
-    getElementById()
     handleSearch();
 });
 
